@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+clrscr();
+int x,p,t=100,n=10000;
+printf("no.of times to drink a coffee:");
+scanf("%d",&x);
+{
+for(x=0;x<=n;x++)
+{
+for(p=1;p<=t,p++)
+printf("welcome to the coffee shop");
+}
+if(x==p)
+printf("drink coffee for free");
+else
+printf("drink coffee for INR");
+}
+}
